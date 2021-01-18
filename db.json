@@ -13,12 +13,7 @@
     },
     {
         "name": "Meowsalot",
-        "species": "Cat",
-        "favFoods": [
-            "tuna",
-            "catnip",
-            "celery"
-        ],
+        "species": "Cat",        
         "birthYear": 2012,
         "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     }
