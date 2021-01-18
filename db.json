@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Детские игры",
+    "species": "Cat",
+    "favFoods": [
+      "wet food",
+      "dry food",
+      "<strong>any</strong> food"
+    ],
+    "birthYear": 2016,
+    "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a00000176dd941eb2448138e4e6093088c1/cover1"
+  },
+  {
+    "name": "Собери зверюшку",
+    "species": "Dog",
+    "birthYear": 2008,
+    "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a0000016e26029858c35064da68dc00bfb9/cover1"
+  },
+  {
+    "name": "Башня из тортиков",
+    "species": "Cat",
+    "favFoods": [
+      "tuna",
+      "catnip",
+      "celery"
+    ],
+    "birthYear": 2012,
+    "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a00000176dd941eb2448138e4e6093088c1/cover1"
+  },
+  {
+    "name": "Собери цвета",
+    "species": "Cat",
+    "favFoods": [
+      "tuna",
+      "catnip",
+      "celery"
+    ],
+    "birthYear": 2012,
+    "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a0000016e26029858c35064da68dc00bfb9/cover1"
+  }
+
+]
