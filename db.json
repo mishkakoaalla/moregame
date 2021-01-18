@@ -4,21 +4,32 @@
         "name": "Детские игры",
         "species": "Cat",
         "birthYear": 1905,
-        "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a00000176dd941eb2448138e4e6093088c1/cover1",
+        "links": "https://yandex.ru/games/play/142278"
 
       },
       {
         "name": "Башня",
         "species": "Cat",
         "birthYear": 2020,
-        "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+        "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a0000016e26029858c35064da68dc00bfb9/cover1",
+        "links": "https://yandex.ru/games/play/142278"
 
       },
       {
         "name": "Собери",
         "species": "Cat",
         "birthYear": 2016,
-        "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+        "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a00000176dd941eb2448138e4e6093088c1/cover1",
+        "links": "https://yandex.ru/games/play/142278"
+
+      },
+      {
+        "name": "Пазлы",
+        "species": "Cat",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a0000016e26029858c35064da68dc00bfb9/cover1",
+        "links": "https://yandex.ru/games/play/142278"
 
       }
 
