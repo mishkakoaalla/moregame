@@ -1,37 +1,70 @@
 {
     "pets": [
       {
-        "name": "Детские игры",
+        "name": "Собери цвета",
         "species": "Детские/Развивающие",
         "birthYear": 1905,
-        "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a00000176dd941eb2448138e4e6093088c1/cover1",
+        "photo": "https://avatars.mds.yandex.net/get-games/1890793/2a00000175a3b5bbd73a36d36dfb59b6b114/icon1",
         "links": "https://yandex.ru/games/play/142278"
 
       },
       {
-        "name": "Башня",
+        "name": "Учим цвета",
         "species": "Детские/Развивающие",
         "birthYear": 2020,
-        "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a0000016e26029858c35064da68dc00bfb9/cover1",
-        "links": "https://yandex.ru/games/play/142278"
+        "photo": "https://avatars.mds.yandex.net/get-games/1890793/2a00000175a3b5bbd73a36d36dfb59b6b114/icon1",
+        "links": "https://yandex.ru/games/play/117471"
 
       },
       {
-        "name": "Собери",
+        "name": "Больше - Меньше",
         "species": "Детские/Развивающие",
         "birthYear": 2016,
-        "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a00000176dd941eb2448138e4e6093088c1/cover1",
-        "links": "https://yandex.ru/games/play/142278"
+        "photo": "https://avatars.mds.yandex.net/get-games/1890793/2a00000175847ebcddf1237e3fc906af99fd/icon1",
+        "links": "https://yandex.ru/games/play/115241"
 
       },
       {
-        "name": "Пазлы",
+        "name": "Ближе - Дальше",
         "species": "Детские/Развивающие",
         "birthYear": 2016,
         "photo": "https://avatars.mds.yandex.net/get-games/1881957/2a0000016e26029858c35064da68dc00bfb9/cover1",
-        "links": "https://yandex.ru/games/play/142278"
+        "links": "https://yandex.ru/games/play/110817 "
+
+      },
+       {
+        "name": "Собери зверюшку",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1881371/2a00000173953d3615178337ca96c3478bfe/icon1",
+        "links": "https://yandex.ru/games/play/102116"
+
+      },
+              {
+        "name": "Съедобное - Несъедобное",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1892995/2a00000174695a7e6a97d4ddd98301184488/icon1",
+        "links": "https://yandex.ru/games/play/103846"
+
+      },
+                      {
+        "name": "Дикие и домашние животные",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1890793/2a00000173d485ea9a65043a2664e765689d/icon1",
+        "links": "https://yandex.ru/games/play/102430"
+
+      },
+                      {
+        "name": "Сборник детских игр",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1881364/2a0000016dfec52897b0a7f1903c113e1f87/icon1",
+        "links": "https://yandex.ru/games/play/97001"
 
       }
+
 
     ]
 
