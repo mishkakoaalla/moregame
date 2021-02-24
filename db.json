@@ -63,7 +63,18 @@
         "photo": "https://avatars.mds.yandex.net/get-games/1881364/2a0000016dfec52897b0a7f1903c113e1f87/orig",
         "links": "https://yandex.ru/games/play/97001"
 
-      }
+      },
+        {
+        "name": "Учим профессии",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/2977039/2a000001770fcf209b0a641b5079fa60399a/orig",
+        "links": "https://yandex.ru/games/play/144223"
+            
+            
+            
+            
+        }
 
 
     ]
