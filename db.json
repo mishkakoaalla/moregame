@@ -1,97 +1,95 @@
 {
-  "pets": [
-    {
-      "name": "Собери цвета",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://avatars.mds.yandex.net/get-games/1881371/2a00000176dd92be2f8ef0915b396f73d1bc/orig",
-      "links": "https://yandex.ru/games/play/142278"
-    },
-    {
-      "name": "Учим цвета",
-      "species": "Детские/Развивающие",
-      "birthYear": 2020,
-      "photo": "https://avatars.mds.yandex.net/get-games/1890793/2a00000175a3b5bbd73a36d36dfb59b6b114/orig",
-      "links": "https://yandex.ru/games/play/117471"
-    },
-    {
-      "name": "Больше - Меньше",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://avatars.mds.yandex.net/get-games/1890793/2a00000175847ebcddf1237e3fc906af99fd/orig",
-      "links": "https://yandex.ru/games/play/115241"
-    },
-    {
-      "name": "Ближе - Дальше",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://avatars.mds.yandex.net/get-games/1892995/2a00000175362f6cac011dcc2a3faf4a6ea3/orig",
-      "links": "https://yandex.ru/games/play/110817 "
-    },
-    {
-      "name": "Собери зверюшку",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://avatars.mds.yandex.net/get-games/1881371/2a00000173953d3615178337ca96c3478bfe/orig",
-      "links": "https://yandex.ru/games/play/102116"
-    },
-    {
-      "name": "Съедобное - Несъедобное",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://avatars.mds.yandex.net/get-games/1892995/2a00000174695a7e6a97d4ddd98301184488/orig",
-      "links": "https://yandex.ru/games/play/103846"
-    },
-    {
-      "name": "Дикие и домашние животные",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://avatars.mds.yandex.net/get-games/1890793/2a00000173d485ea9a65043a2664e765689d/orig",
-      "links": "https://yandex.ru/games/play/102430"
-    },
-    {
-      "name": "Сборник детских игр",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://avatars.mds.yandex.net/get-games/1881364/2a0000016dfec52897b0a7f1903c113e1f87/orig",
-      "links": "https://yandex.ru/games/play/97001"
-    },
-    {
-      "name": "Учим профессии",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://avatars.mds.yandex.net/get-games/2977039/2a000001770fcf209b0a641b5079fa60399a/orig",
-      "links": "https://yandex.ru/games/play/144223"
-    },
-    {
-      "name": "Загадки для детей",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://avatars.mds.yandex.net/get-games/2977039/2a0000017797753b5f45af3aed543de8d7b2/orig",
-      "links": "https://yandex.ru/games/play/150164"
-    },
-    {
-      "name": "Четвёртый лишний",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://avatars.mds.yandex.net/get-games/2977039/2a00000177e448427e189664deb9f03347f7/orig",
-      "links": "https://yandex.ru/games/play/153020"
-    }
-  ],
-  "alex": [
-    {
-      "name": "Собери цвета",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://m.media-amazon.com/images/M/MV5BMTM0NjUxMDk5MF5BMl5BanBnXkFtZTcwNDMxNDY3Mw@@._V1_UY720.jpg",
-      "links": "https://yandex.ru/games/play/142278"
-    },
-    {
-      "name": "Собери цвета",
-      "species": "Детские/Развивающие",
-      "birthYear": 2016,
-      "photo": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2Nzg3Nl5BMl5BanBnXkFtZTcwNTMxNDY3Mw@@._V1_UY720.jpg",
-      "links": "https://yandex.ru/games/play/142278"
-    }
-  ]
-}
+    "pets": [
+      {
+        "name": "Собери цвета",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1881371/2a00000176dd92be2f8ef0915b396f73d1bc/orig",
+        "links": "https://yandex.ru/games/play/142278"
+
+      },
+      {
+        "name": "Учим цвета",
+        "species": "Детские/Развивающие",
+        "birthYear": 2020,
+        "photo": "https://avatars.mds.yandex.net/get-games/1890793/2a00000175a3b5bbd73a36d36dfb59b6b114/orig",
+        "links": "https://yandex.ru/games/play/117471"
+
+      },
+      {
+        "name": "Больше - Меньше",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1890793/2a00000175847ebcddf1237e3fc906af99fd/orig",
+        "links": "https://yandex.ru/games/play/115241"
+
+      },
+      {
+        "name": "Ближе - Дальше",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1892995/2a00000175362f6cac011dcc2a3faf4a6ea3/orig",
+        "links": "https://yandex.ru/games/play/110817 "
+
+      },
+       {
+        "name": "Собери зверюшку",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1881371/2a00000173953d3615178337ca96c3478bfe/orig",
+        "links": "https://yandex.ru/games/play/102116"
+
+      },
+              {
+        "name": "Съедобное - Несъедобное",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1892995/2a00000174695a7e6a97d4ddd98301184488/orig",
+        "links": "https://yandex.ru/games/play/103846"
+
+      },
+                      {
+        "name": "Дикие и домашние животные",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1890793/2a00000173d485ea9a65043a2664e765689d/orig",
+        "links": "https://yandex.ru/games/play/102430"
+
+      },
+                      {
+        "name": "Сборник детских игр",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/1881364/2a0000016dfec52897b0a7f1903c113e1f87/orig",
+        "links": "https://yandex.ru/games/play/97001"
+
+      },
+        {
+        "name": "Учим профессии",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/2977039/2a000001770fcf209b0a641b5079fa60399a/orig",
+        "links": "https://yandex.ru/games/play/144223"          
+                                  
+        },
+                {
+        "name": "Загадки для детей",
+        "species": "Детские/Развивающие",
+        "birthYear": 2016,
+        "photo": "https://avatars.mds.yandex.net/get-games/2977039/2a0000017797753b5f45af3aed543de8d7b2/orig",
+        "links": "https://yandex.ru/games/play/150164"          
+                                  
+        },
+            {
+            "name": "Четвёртый лишний",
+            "species": "Детские/Развивающие",
+            "birthYear": 2016,
+            "photo": "https://avatars.mds.yandex.net/get-games/2977039/2a00000177e448427e189664deb9f03347f7/orig",
+            "links": "https://yandex.ru/games/play/153020"         
+            }
+        
+
+
+    ]
+
+  }
